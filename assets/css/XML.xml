@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<base>
+  <to>  class</to>
+  <from>Teacher</from>
+  <heading>student</heading>
+  <body>This is a first xml class</body>
+  </base>
